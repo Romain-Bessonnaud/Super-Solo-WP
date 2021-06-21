@@ -1,0 +1,247 @@
+
+
+
+
+/* RANKS--------------------------------------------------------------------*/
+/*  1 ----------------------  set the symbol color --------------------------*/
+
+
+/*2. add the styling for the level names--------------------------------------*/
+
+	 
+	#level1	
+	 
+	 {
+	color:  #000000 ;
+	 }
+	 	 
+	 	 
+	#level1	
+	 
+	 {
+	Font-Style:  italic ; 
+	 }
+	 #level1	 
+	{
+	Font-weight:  normal ; 
+	}
+	 	 
+	 #level2		 
+	 {
+	font-size:  13px ;
+	 }
+	 	 
+	#level2	
+	 
+	 {
+	color:  #7f7200 ;
+	 }
+	 	 
+	 	 
+	#level2	
+	 
+	 {
+	Font-Style:  italic ; 
+	 }
+	 #level2	 
+	{
+	Font-weight:  normal ; 
+	}
+	 	 
+	 #level3		 
+	 {
+	font-size:  13px ;
+	 }
+	 	 
+	#level3	
+	 
+	 {
+	color:  #e09d00 ;
+	 }
+	 	 
+	 	 
+	#level3	
+	 
+	 {
+	Font-weight:  bold ; 
+	 }
+	 #level4		 
+	 {
+	font-size:  14px ;
+	 }
+	 	 
+	#level4	
+	 
+	 {
+	color:  #dd3333 ;
+	 }
+	 	 
+	 	 
+	#level4	
+	 
+	 {
+	Font-weight:  bold ; 
+	 }
+	 	
+
+
+
+
+/* BADGES--------------------------------------------------------------------*/
+
+	 
+		 
+	 	 
+		
+
+
+	
+
+		/* Tooltip text */
+			.bur-tooltip .bur-tooltiptext1			{
+				visibility: hidden;
+				width : 180px;
+				text-align: center;
+				padding: 5px;
+				border-radius: 6px;
+				position: absolute;
+				background-color:grey ;
+				color:  ;
+				font-size:   ;
+			}
+			
+			/* Show the tooltip text when you mouse over the tooltip container */
+		.bur-tooltip:hover .bur-tooltiptext1		
+		{
+			
+		visibility: visible;
+		}
+			 
+		 
+	 	 
+		
+
+
+	
+
+		/* Tooltip text */
+			.bur-tooltip .bur-tooltiptext2			{
+				visibility: hidden;
+				width : 180px;
+				text-align: center;
+				padding: 5px;
+				border-radius: 6px;
+				position: absolute;
+				background-color:grey ;
+				color:  ;
+				font-size:   ;
+			}
+			
+			/* Show the tooltip text when you mouse over the tooltip container */
+		.bur-tooltip:hover .bur-tooltiptext2		
+		{
+			
+		visibility: visible;
+		}
+			 
+		 
+	 	 
+		
+
+
+	
+
+		/* Tooltip text */
+			.bur-tooltip .bur-tooltiptext3			{
+				visibility: hidden;
+				width : 180px;
+				text-align: center;
+				padding: 5px;
+				border-radius: 6px;
+				position: absolute;
+				background-color:grey ;
+				color:  ;
+				font-size:   ;
+			}
+			
+			/* Show the tooltip text when you mouse over the tooltip container */
+		.bur-tooltip:hover .bur-tooltiptext3		
+		{
+			
+		visibility: visible;
+		}
+			 
+		 
+	 	 
+		
+
+
+	
+
+		/* Tooltip text */
+			.bur-tooltip .bur-tooltiptext4			{
+				visibility: hidden;
+				width : 180px;
+				text-align: center;
+				padding: 5px;
+				border-radius: 6px;
+				position: absolute;
+				background-color:grey ;
+				color:  ;
+				font-size:   ;
+			}
+			
+			/* Show the tooltip text when you mouse over the tooltip container */
+		.bur-tooltip:hover .bur-tooltiptext4		
+		{
+			
+		visibility: visible;
+		}
+			 
+		 
+	 	 
+		
+
+
+	
+
+		/* Tooltip text */
+			.bur-tooltip .bur-tooltiptext5			{
+				visibility: hidden;
+				width : 180px;
+				text-align: center;
+				padding: 5px;
+				border-radius: 6px;
+				position: absolute;
+				background-color:grey ;
+				color:  ;
+				font-size:   ;
+			}
+			
+			/* Show the tooltip text when you mouse over the tooltip container */
+		.bur-tooltip:hover .bur-tooltiptext5		
+		{
+			
+		visibility: visible;
+		}
+		
+
+/*----------------------  set up li for buddypress display--------------------------*/
+
+
+#buddypress div#item-header #bur_profile ul li
+{
+    float : none  ;
+}
+
+/*----------------------  set the tooltip text--------------------------*/
+/* Tooltip container */
+.bur-tooltip {
+    position: relative;
+    display: inline-block;
+}
+
+
+
+
+/*----------------------  custom css--------------------------*/
