@@ -3,7 +3,7 @@
 <h1 align="center">Super Solo</h1>
 </p>
 
-![Présentation de la page d'Accueil](ressources\img-website\Accueil.gif)
+![Présentation de la page d'Accueil](ressources/img-website/Accueil.gif)
 
 
 ## I - Introduction
@@ -15,11 +15,11 @@
 
 | Menu du site									 |
 |------------------------------------------------|
-|![Menu du site](ressources\img-website\Menu.gif)|
+|![Menu du site](ressources/img-website/Menu.gif)|
 
 | Connexion	| Inscription |
 |-----------|-------------|
-|![Page de connexion](ressources\img-website\Login.gif)|![Page d'inscription](ressources\img-website\Register.gif)|
+|![Page de connexion](ressources/img-website/Login.gif)|![Page d'inscription](ressources/img-website/Register.gif)|
 
 - [ ] Rajouter des images.
 
