@@ -1,7 +1,8 @@
-<p align="center">
-<img src="ressources/logo.png" height="64px">
-<h1 align="center">Super Solo</h1>
-</p>
+<div align="center">
+	<img src="ressources/logo.png" height="100px">
+	<h1 align="center">Super Solo</h1>
+</div>
+<br/>
 
 ![Présentation de la page d'Accueil](ressources/img-website/Accueil.gif)
 
