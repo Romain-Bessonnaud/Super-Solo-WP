@@ -36,7 +36,7 @@
 
 4. Allumer votre serveur php (Wamp, XAMPP ou autre service).
 
-5. Remplacer l'url `https://website-example.com/wordpress` par l'url de votre site (je sais pas si c'est nécessaire, mais je le dis okazou).\
+5. Remplacer l'url `https://website-example.com/wordpress` par l'url de votre site (je sais pas si c'est nécessaire, mais je le dis okazou). 
 Puis, aller sur votre *phpMyAdmin* et insérer le fichier SQL [`SuperSolo.sql`](SuperSolo.sql), qui a toutes les données nécessaires pour le site.
 
 6. Résoudre le reste des problèmes vous-même puisque j'ai sûrement oublié des trucs.
