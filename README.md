@@ -9,7 +9,7 @@
 
 ## I - Introduction
 
-`Écrivez ce que vous voulez pour votre introduction`
+Création d'un site dynamique via le CMS Wordpress pour une équipe fictive d'Esport.
 
 
 ## II - Des images
